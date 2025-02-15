@@ -1,5 +1,5 @@
 # first-reop
-This my first time using the gitgub.
+This my first time using the github.
 <br>
 this is written by me
 <br> 
